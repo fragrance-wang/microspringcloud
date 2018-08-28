@@ -21,6 +21,6 @@ public class Dept implements Serializable{//必須序列化
 	
 	public static void main(String[] args) {
 		Dept dept = new Dept();
-		dept.setDb_source("aa");
+		dept.setDb_source("bb");
 	}
 }
