@@ -1,0 +1,4 @@
+com\atws\springcloud\DeptProvider8002_App.class
+com\atws\springcloud\controller\DeptController.class
+com\atws\springcloud\service\DeptService.class
+com\atws\springcloud\dao\DeptDao.class
