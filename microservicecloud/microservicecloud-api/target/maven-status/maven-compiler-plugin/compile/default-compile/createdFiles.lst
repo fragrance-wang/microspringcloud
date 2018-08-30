@@ -1,1 +1,2 @@
 com\atws\springcloud\entities\Dept.class
+com\atws\springcloud\service\DeptClientService.class
